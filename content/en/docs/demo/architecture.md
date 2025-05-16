@@ -107,7 +107,7 @@ subgraph Service Legend
   typescriptsvc(TypeScript):::typescript
 end
 
-classDef dotnet fill:#178600,color:white;
+classDef dotnet fill:#178600,color:white,fontSize:32px;
 classDef cpp fill:#f34b7d,color:white;
 classDef golang fill:#00add8,color:black;
 classDef java fill:#b07219,color:white;
